@@ -1,4 +1,4 @@
-# Hi there, I'm Vasanth 👋
+# Hi there, I'm Vasanth 
 
 **Software Engineering Student | AWS Certified Solutions Architect – Associate | Cloud & AI/ML**  
 *Integrated M.Tech in Software Engineering @ Vellore Institute of Technology (VIT), Chennai (2022–2027)*
